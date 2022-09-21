@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CI/CD achieved!</title>
+</head>
+<body>
+
+    <h1>This proves that the webiste has been succesfully deployed using GitHub Actions</h1>
+</body>
+</html>
